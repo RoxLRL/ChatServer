@@ -38,12 +38,14 @@ make
 ```
 启动服务器：运行编译后的服务器程序。
 ```
-./chatserver
+./ChatServer
 ```
-连接客户端：使用提供的客户端程序连接服务器，开始聊天。\
-
+连接客户端：使用提供的客户端程序连接服务器，开始聊天。
+```
+./ChatClient
+```
 
 联系方式\
 作者：roxlong\
 邮箱：roxlong@foxmail.com\
-GitHub：https://github.com/RoxLRL\
+GitHub：https://github.com/RoxLRL
